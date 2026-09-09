@@ -1,0 +1,27 @@
+ACME CORP — PRODUCT CATALOG (ERGONOMICS LINE)
+
+Product: Aurora Laptop Stand
+SKU: ERG-1001
+Price: $89.00
+Description: Adjustable aluminum laptop stand, compatible with 11"-17" laptops.
+Designed by the Ergonomics Team, led by Design Lead Sofia Ramirez.
+Related Accessory: Aurora Cooling Pad (SKU ERG-1002)
+
+Product: Aurora Cooling Pad
+SKU: ERG-1002
+Price: $34.00
+Description: USB-powered cooling pad, pairs with the Aurora Laptop Stand for
+extended work sessions. Manufactured by partner supplier NovaTech Industries.
+
+Product: Meridian Ergonomic Chair
+SKU: ERG-2001
+Price: $410.00
+Description: Full-mesh ergonomic chair with lumbar support, approved for
+reimbursement under the Remote Work & Expense Policy equipment stipend.
+Supplier: NovaTech Industries.
+
+Support Escalation Rule:
+If a customer reports a defect in any product supplied by NovaTech Industries,
+the ticket must be escalated to the Vendor Relations team, not standard IT Support.
+IT Support (led by Marcus Chen) only handles setup and configuration issues, not
+manufacturing defects.

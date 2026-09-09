@@ -1,0 +1,19 @@
+ACME CORP — FREQUENTLY ASKED QUESTIONS
+
+Q: Who approves remote work requests?
+A: Your direct Engineering Manager approves the schedule, but HR owns the overall
+workflow and final record-keeping.
+
+Q: I bought a Meridian Ergonomic Chair, can I get reimbursed?
+A: Yes. The Meridian Ergonomic Chair qualifies under the $500 equipment stipend
+described in the Remote Work & Expense Policy, since it is an approved ergonomic
+accessory.
+
+Q: My Aurora Cooling Pad stopped working, who do I contact?
+A: Since the Aurora Cooling Pad is manufactured by NovaTech Industries, defect
+reports should go to Vendor Relations, not IT Support, per the Support Escalation
+Rule.
+
+Q: Can contractors work remotely?
+A: Not by default. Contractors need explicit approval from the VP of Operations,
+Priya Nair.

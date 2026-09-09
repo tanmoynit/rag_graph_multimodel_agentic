@@ -1,0 +1,28 @@
+ACME CORP — REMOTE WORK & EXPENSE POLICY
+
+1. Remote Work Eligibility
+All full-time employees who have completed 90 days of employment are eligible to
+work remotely up to 3 days per week. Managers must approve remote work arrangements
+in writing via the HR portal. Contractors and interns are not eligible for remote work
+unless explicitly approved by the VP of Operations.
+
+2. Equipment Stipend
+Employees approved for remote work receive a one-time equipment stipend of $500,
+administered by the Finance department. The stipend can be used for desks, chairs,
+monitors, or ergonomic accessories. Receipts must be submitted within 30 days.
+
+3. Expense Reimbursement
+Travel expenses for client visits are reimbursed at 100% when pre-approved by a
+manager. Meals during business travel are capped at $75/day. The Finance department
+processes reimbursements within 10 business days of submission.
+
+4. Roles and Responsibilities
+- The HR Department owns the remote work approval workflow.
+- The Finance Department owns equipment stipends and expense reimbursement.
+- Engineering Managers are responsible for approving remote schedules for their reports.
+- The VP of Operations, Priya Nair, has final authority over exceptions to this policy.
+
+5. Product Support Note
+Employees working remotely who need help with the "Aurora Laptop Stand" (an
+ergonomic accessory eligible for stipend reimbursement) should contact IT Support,
+led by Marcus Chen, for setup assistance.
